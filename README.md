@@ -67,10 +67,6 @@ LifeLink is a **secure web platform** for hospitals to:
 - **Save Lives**: Provides immediate access to crucial medical data in emergencies.  
 - **Cost Efficiency**: Reduces unnecessary tests, saving time and resources.  
 
-### **Alignment with SDGs**
-- **SDG3 (Good Health & Well-Being)**: Improves healthcare access and outcomes.  
-- **SDG9 (Industry, Innovation, & Infrastructure)**: Fosters innovation in healthcare data sharing.  
-- **SDG10 (Reduced Inequality)**: Enhances healthcare access for underserved regions.
 
 ---
 
